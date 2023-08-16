@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
- Titanic ML Competition on Kaggle
+Kaggle's Titanic ML Competition using PyTorch.
