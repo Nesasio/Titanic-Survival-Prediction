@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-Kaggle's Titanic ML Competition using PyTorch.
+This repository contains PyTorch implementation of Kaggle's Titanic Machine Learning Challenge.
